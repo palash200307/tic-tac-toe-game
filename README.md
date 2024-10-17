@@ -1,1 +1,1 @@
-Welcome to the Tic-Tac_Toe game.
+Welcome to the Tic-Tac-Toe game.
